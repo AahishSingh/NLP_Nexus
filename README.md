@@ -22,5 +22,5 @@ NLP Nexus is a tool designed to streamline text analysis and document summarizat
 - python -m nltk.downloader stopwords
 - python -m nltk.downloader vader_lexicon
 - pip install -r requirements.txt
-## Running Application
+## Running Application:
 - python app.py
